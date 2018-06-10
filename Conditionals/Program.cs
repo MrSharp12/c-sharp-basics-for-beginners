@@ -58,7 +58,7 @@ namespace Conditionals
             }
 
 
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }

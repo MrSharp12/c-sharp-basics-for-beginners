@@ -28,7 +28,7 @@ namespace Enums
             //parsing, or converting a string to a different type, to an enum
             //we are casting before the enum because the method returns an object
            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }

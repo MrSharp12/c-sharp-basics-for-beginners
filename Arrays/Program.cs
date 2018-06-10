@@ -19,7 +19,7 @@ namespace Arrays
             Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);// since this wasn't initialized, it is set to the default of its type
             Console.WriteLine(numbers[2]);
-            Console.ReadLine();
+            Console.Read();
 
             var flags = new bool[3];
             flags[0] = true;
@@ -27,7 +27,7 @@ namespace Arrays
             Console.WriteLine(flags[0]);
             Console.WriteLine(flags[1]);//same in this case, default is false
             Console.WriteLine(flags[2]);
-            Console.ReadLine();
+            Console.Read();
 
             //example of object initialization syntax
             //this way intializes during declaration

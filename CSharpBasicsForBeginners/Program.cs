@@ -16,12 +16,12 @@ namespace CSharpBasicsForBeginners
             matt.FirstName = "Matt";
             matt.LastName = "Sharp";
             matt.Introduce();
-            Console.ReadLine();
+            Console.Read();
 
             Calculator calculator = new Calculator();
             var result = calculator.Add(1, 2);
             Console.WriteLine(result);
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }

@@ -28,7 +28,7 @@ namespace ReferenceAndValueTypesTwo
             Console.WriteLine(person.Age);
             //this will be 30 because it is pointing to the same object on the heap
 
-            Console.ReadLine();
+            Console.Read();
         }
 
         public static void Increment(int number)

@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueTypesTwo",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{6673B153-3F05-49D3-AAAB-378FCCA48C51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalExercises", "ConditionalExercises\ConditionalExercises.csproj", "{F930F6C5-1713-4354-8D13-D593D4EEBE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterations", "Iterations\Iterations.csproj", "{AFB35BF6-CB96-4416-91C8-DFE9BD1F91C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6673B153-3F05-49D3-AAAB-378FCCA48C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6673B153-3F05-49D3-AAAB-378FCCA48C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6673B153-3F05-49D3-AAAB-378FCCA48C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F930F6C5-1713-4354-8D13-D593D4EEBE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F930F6C5-1713-4354-8D13-D593D4EEBE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F930F6C5-1713-4354-8D13-D593D4EEBE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F930F6C5-1713-4354-8D13-D593D4EEBE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB35BF6-CB96-4416-91C8-DFE9BD1F91C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB35BF6-CB96-4416-91C8-DFE9BD1F91C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB35BF6-CB96-4416-91C8-DFE9BD1F91C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB35BF6-CB96-4416-91C8-DFE9BD1F91C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

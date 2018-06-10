@@ -21,7 +21,7 @@ namespace ReferenceAndValueTypes
             array2[0] = 0;
             Console.WriteLine($"array1[0]: {array1[0]}, array2[0]: {array2[0]}");
 
-            Console.ReadLine();
+            Console.Read();
 
         }
     }
