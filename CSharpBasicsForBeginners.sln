@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTest", "Random\Random
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopExercise", "LoopExercise\LoopExercise.csproj", "{A8726C18-01ED-4186-8AE1-49F1D6CCA2E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMethod", "ArrayMethod\ArrayMethod.csproj", "{7686DCBC-772E-4696-8842-97125AE026CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{9DA74CEC-5F85-45BD-9B91-B0D16C71D2BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{A8726C18-01ED-4186-8AE1-49F1D6CCA2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8726C18-01ED-4186-8AE1-49F1D6CCA2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8726C18-01ED-4186-8AE1-49F1D6CCA2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7686DCBC-772E-4696-8842-97125AE026CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7686DCBC-772E-4696-8842-97125AE026CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7686DCBC-772E-4696-8842-97125AE026CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7686DCBC-772E-4696-8842-97125AE026CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA74CEC-5F85-45BD-9B91-B0D16C71D2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA74CEC-5F85-45BD-9B91-B0D16C71D2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA74CEC-5F85-45BD-9B91-B0D16C71D2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA74CEC-5F85-45BD-9B91-B0D16C71D2BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
